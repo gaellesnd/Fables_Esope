@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&family=Xanh+Mono&display=swap');
+
+
+h1{font-family: 'Francois One', sans-serif;
+  font-size: 6em;
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: : 1em;
+padding-top: 0em;}
+
+
+
+ul {text-align: center;
+      padding-top: 40px;
+    margin-top: -30px;}
+
+.list{font-family: 'Xanh Mono', monospace;
+font-size: 1.2em;
+line-height: 2em;}
+
+
+
+  h2{font-family: 'Xanh Mono', monospace;
+  text-align: center;
+      font-size: 2em;
+      color: rgb(250, 250, 250);}
+
+  p{font-family: 'Helvetica', sans-serif;
+  color: White;
+line-height: 2em;}

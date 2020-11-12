@@ -1,0 +1,29 @@
+body{background-color: rgb(60, 160, 230);
+   height: 100;}
+
+ul{
+  background-color: black;
+  width: 300px; height: 170px;
+  color: rgb(60, 160, 230);
+  margin-left: 465px;}
+
+a{text-decoration: none;
+color: rgb(60, 160, 230);}
+  img {
+  width: 100%;
+  height: auto;
+  margin-top: 50px;}
+  }
+
+  #lettrine{
+    width : 150px;
+    font-family : 'Francois One', sans-serif;;
+    font-size : 120px;
+  }
+  #lettrine:first-letter {
+    font-family : 'Francois One', sans-serif;
+    font-size : 70px;
+    color : White;
+    padding:16px 5px 0px 0;
+    float : left;
+  }
